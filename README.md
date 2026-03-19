@@ -1,5 +1,4 @@
 # Python-Projects
-# Python Projects
 An assortment of Python Projects to peruse through 
 
 ## Description
