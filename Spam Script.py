@@ -3,8 +3,8 @@ import email
 from email.header import decode_header
 
 # --- CONFIG ---
-EMAIL = "nickoliswinslow@gmail.com"
-APP_PASSWORD = "ocmf vobs iztz pzra"  # Your 16-char app password
+EMAIL = "ENTER EMAIL HERE"
+APP_PASSWORD = "**** **** **** ****"  # Your 16-char app password
 SPAM_KEYWORDS = ["winner", "free money", "click here", "urgent", "help wanted", "verify your account"]
 
 # --- CONNECT ---
